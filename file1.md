@@ -5,3 +5,10 @@ Just a sample repo for learning the basics of GitHub.
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+
+|Command |Description|
+| --- | --- |
+| 'git status' | List all *new or modified files* |
+| 'git diff' | Show file differences that **haven't** staged |
+
