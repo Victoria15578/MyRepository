@@ -15,3 +15,7 @@ Just a sample repo for learning the basics of GitHub.
 
 This site was built using [Github Pages](https://pages.github.com/)
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
